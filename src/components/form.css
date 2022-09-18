@@ -1,0 +1,14 @@
+form{
+  background-color: rgb(250, 180, 172);
+  display:grid;
+  justify-content: center;
+  padding: 2em;
+  border: #f76c6c 1px solid;
+
+}
+
+input, button{
+    border: #f76c6c 1px solid;
+    color: #f94949;
+    border-radius: 6px;
+}
